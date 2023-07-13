@@ -15,7 +15,6 @@ body{
     margin: 0px auto;
     margin-top: 2rem;
     display: grid;
-    grid-template-rows: 0.5fr 1fr;
     row-gap: 0.5rem;
     box-shadow: 3px 5px 20px 5px hsl(241, 100%, 89%);
     border-radius: 1rem;
@@ -26,6 +25,22 @@ body{
 p {
     font-size: 16px;
     font-weight: 500;
+}
+
+button{
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    text-align: center;
+    margin: 10px;
+    border-radius: 20rem;
+    border: 0;
+    padding: 0.8rem;
+    background-color: hsl(224, 30%, 27%);
+}
+
+button:hover{
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
 header{
@@ -124,14 +139,6 @@ section{
     color: hsl(234, 85%, 45%);
 }
 
-.continue{
-    text-align: center;
-    margin: 10px;
-    border-radius: 20rem;
-    padding: 0.8rem;
-    background-color: hsl(224, 30%, 27%);
-}
-
 .white{
     color: hsl(0, 0%, 100%);;
 }
@@ -142,10 +149,6 @@ section{
 
 .pale-blue{
     color: hsl(221, 100%, 96%, 0.5);
-}
-
-.continue:hover{
-    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
 .attribution{ 
