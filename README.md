@@ -35,8 +35,8 @@ Desktop Preview -
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-result-summary-C5MKuenqNF)
-- Live Site URL: [Add live site URL here](https://obikaviola.github.io/result-summary-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-result-summary-C5MKuenqNF)
+- Live Site URL: [Live site](https://obikaviola.github.io/result-summary-component/)
 
 ## My process
 
